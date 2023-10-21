@@ -1,3 +1,5 @@
+# Intro
+
 - 👋 Hi, I’m @anjani-kumar-1, a passionate Electronics and Communication Engineering student.
 
 - 👀 I’m fascinated by the realms of Electronics, IoT, Embedded Systems, Robotics, and the endless possibilities they offer. My journey in this field is fueled by the curiosity to explore, learn, and contribute.
@@ -18,4 +20,3 @@ I find joy in turning ideas into reality through technology. Whether it's crafti
 anjani-kumar-1/anjani-kumar-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
